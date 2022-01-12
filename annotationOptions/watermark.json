@@ -1,0 +1,7 @@
+[
+		{ category: "Watermark", key: "f", val: 2 },
+		{ category: "No watermark but covering text", key: "j", val: 1 },
+		{ category: "Neither of the previous options", key: " ", val: 0 },
+		{ category: "Return to previous image", key: "b", val: -1 },
+		{ category: "No annotation", key: "n", val: -2 },
+];
