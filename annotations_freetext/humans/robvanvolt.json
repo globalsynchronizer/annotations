@@ -4,5 +4,14 @@
 		"male",
 		"green",
 		"Asian"
+	],
+	"./data/clear/00000/000000013": [
+		"27",
+		"male",
+		"red",
+		"Latino"
+	],
+	"./data/clear/00000/000002033": [
+		"28"
 	]
 }
