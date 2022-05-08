@@ -1,8 +1,7 @@
 [
-	{ "category": "Excellent", "key": "f", "val": 5 },
-	{ "category": "Very good", "key": "j", "val": 4 },
-	{ "category": "Good", "key": "f", "val": 3 },
-	{ "category": "Average", "key": "j", "val": 2 },
-	{ "category": "Bad", "key": "f", "val": 1 },
-	{ "category": "Very bad", "key": "j", "val": 0 }
+	{ "category": "Excellent", "key": "5", "val": 5 },
+	{ "category": "Good", "key": "4", "val": 4 },
+	{ "category": "Average", "key": "3", "val": 3 },
+	{ "category": "Bad", "key": "2", "val": 2 },
+	{ "category": "Very bad", "key": "1", "val": 1 }
 ]
