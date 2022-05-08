@@ -1,4 +1,8 @@
 [
-	{ "category": "Pose 1", "key": "f", "val": 2 },
-	{ "category": "Pose 2", "key": "j", "val": 1 }
+	{ "category": "Excellent", "key": "f", "val": 5 },
+	{ "category": "Very good", "key": "j", "val": 4 },
+	{ "category": "Good", "key": "f", "val": 3 },
+	{ "category": "Average", "key": "j", "val": 2 },
+	{ "category": "Bad", "key": "f", "val": 1 },
+	{ "category": "Very bad", "key": "j", "val": 0 }
 ]
