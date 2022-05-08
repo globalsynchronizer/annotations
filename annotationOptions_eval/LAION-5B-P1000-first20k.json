@@ -1,7 +1,13 @@
 [
-	{ "category": "Excellent", "key": "5", "val": 5 },
-	{ "category": "Good", "key": "4", "val": 4 },
-	{ "category": "Average", "key": "3", "val": 3 },
-	{ "category": "Bad", "key": "2", "val": 2 },
-	{ "category": "Very bad", "key": "1", "val": 1 }
+	{ "category": "10", "key": "0", "val": 10 },
+	{ "category": "9", "key": "9", "val": 9 },
+	{ "category": "8", "key": "8", "val": 8 },
+	{ "category": "7", "key": "7", "val": 7 },
+	{ "category": "6", "key": "6", "val": 6 }
+	{ "category": "5", "key": "5", "val": 5 },
+	{ "category": "4", "key": "4", "val": 4 },
+	{ "category": "3", "key": "3", "val": 3 },
+	{ "category": "2", "key": "2", "val": 2 },
+	{ "category": "1", "key": "1", "val": 1 }
 ]
+
