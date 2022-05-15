@@ -9,5 +9,5 @@
 	{ "category": "8", "key": "8", "val": 8 },
 	{ "category": "9", "key": "9", "val": 9 },
 	{ "category": "10", "key": "0", "val": 10 },
-	{ "category": "Image does not clearly show exactly one logo", "key": "^", "val": 0 }
+	{ "category": "Image does not clearly show exactly one logo", "key": "n", "val": 0 }
 ]
